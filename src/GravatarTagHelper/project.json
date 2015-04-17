@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0-*",
+  "dependencies": {
+    "Microsoft.AspNet.Mvc.Razor": "6.0.0-beta5-*"
+  },
+  "frameworks": {
+    "dnx451": {
+      "dependencies": {}
+    }
+  }
+}
