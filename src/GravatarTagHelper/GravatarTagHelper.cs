@@ -2,7 +2,7 @@ using Microsoft.AspNet.Razor.Runtime.TagHelpers;
 using System.Security.Cryptography;
 using System.Text;
     
-namespace Infusion.AspNet.TagHelpers
+namespace GravatarTagHelper
 {
     [TargetElement("img", Attributes=EmailAttributeName)]
 	public class GravatarTagHelper : TagHelper
