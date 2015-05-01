@@ -2,7 +2,7 @@
   "version": "1.0.0-*",
   "dependencies": {
     "Microsoft.AspNet.Mvc.Razor": "6.0.0-beta5-*",
-    "System.Security.Cryptography.Hashing": "4.0.0-beta-22811"
+    "System.Security.Cryptography.Hashing": "4.0.0-beta-*"
   },
   "frameworks": {
     "dnx451": {},
